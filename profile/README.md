@@ -10,6 +10,7 @@ That's cool! If you match our current branche and want us to know about your ide
 
 ### Our services:
 <a href="https://discord.gg/https://discord.com/invite/3TMxPcVKzV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/3TMxPcVKzV" height="30" width="40" /></a>
+<a href="https://twitter.com/aysutv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aysutv" height="30" width="40" /></a>
 </p>
 
 
