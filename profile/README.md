@@ -8,4 +8,9 @@ That's nice! We are constantly looking for new team members, especially in the d
 ### I have a cool idea!
 That's cool! If you match our current branche and want us to know about your idea and how we could solve a specific problem with it, don't hesitate to write your idea on our Discord Server. (https://aysu.tv/dc)
 
+### Our services:
+<a href="https://discord.gg/https://discord.com/invite/3TMxPcVKzV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/3TMxPcVKzV" height="30" width="40" /></a>
+</p>
+
+
 > Our domains you can trust: aysu.tv
